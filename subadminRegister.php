@@ -124,7 +124,7 @@
         <a href="mailto:ocms@gmail.com?subject=Mail from Our Site" class="google"><i class="fab fa-google-plus-g"></i></a>
       </div>
       <div class="footer-copyright">
-              <p>&copy;2024 All Rights Reserved | Designed By <a href="https://www.linkedin.com/in/manashjb/"><span>Penuel Kibet</span></a> </p>
+              <p>&copy;2024 All Rights Reserved | Designed By <a href="https://www.linkedin.com"><span>Penuel Kibet</span></a> </p>
           </div>
 
 
